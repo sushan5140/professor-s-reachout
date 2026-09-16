@@ -122,6 +122,13 @@ Last synchronized: 2026-09-17
 | Eun-Seok Ryu | SKKU | IMCLab — 4DGS / volumetric video / intelligent compression | DRAFTED_WITH_ELIGIBILITY_CAVEAT | — | Undergraduate path generally 3rd/4th year; draft asks only about small pre-admission remote work |
 | Duksu Kim | KOREATECH | SPIN Lab — spatial AI / autonomous driving / 3D vision | DRAFTED | — | Undergraduate research path verified; 2026 autonomous navigation + 3D perception hooks; customized draft stored |
 
+
+| Hyun Myung | KAIST | Urban Robotics Lab — robust perception / SLAM / humanoids | DRAFTED | — | Fall-Winter 2026 undergraduate internship open to internal/external undergrads; robust robotics hook; customized draft stored |
+| Seong Tae Kim | Kyung Hee | AMI Lab — trustworthy multimodal AI / explainability / medical AI | DRAFTED | — | Actively recruiting undergraduate interns; ECCV 2026 multimodal/trustworthy AI hook; customized draft stored |
+| Jongheon Jeong | Korea University | TAIL — AI safety / robustness / monitoring / alignment | DRAFTED | — | Explicit undergraduate-intern openings; 2026 EMNLP/ICML/CVPR trustworthy-AI hooks; customized draft stored |
+| Jungbeom Lee | Korea University | Vision & AI Lab — VLM / VLA / embodied AI | DRAFTED | — | Currently recruiting undergraduate interns; 2026 EMNLP/ECCV/ICML/RSS/CVPR hooks; customized draft stored |
+| Arda Senocak | UNIST | Multisensory Intelligence Lab — multimodal / multisensory learning | DRAFTED | — | Explicit undergraduate-intern recruiting; ECCV 2026 oral + CVPR 2026 hooks; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
