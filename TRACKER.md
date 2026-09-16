@@ -15,10 +15,13 @@ Last synchronized: 2026-09-17
 | Jisoo Mok | DGIST | Multimodal personalization | SENT | Locked concept | DGIST address bounced; resent to alternate public contact |
 | Sang-goo Lee | SNU | RAG / confidence / grounding | SENT | Locked concept | Awaiting reply |
 | Hyuk-Yoon Kwon | SeoulTech | LLM verification / bias | SENT | Sent | CV + proposal sent in existing thread |
-| Hyun-Chul Kim | KNU | NeuroAI Lab | DRAFTED | — | Current customized draft ready |
-| Bumsoo Kim | Chung-Ang | MULTI Lab — multimodal / multi-agent | DRAFTED | — | Current customized draft ready |
-| Hyosu Kim | Chung-Ang | HCSLAB — real-time / on-device AI | DRAFTED | — | Current customized draft ready |
+| Hyun-Chul Kim | KNU | NeuroAI Lab | DRAFTED | — | Customized draft ready |
+| Bumsoo Kim | Chung-Ang | MULTI Lab — multimodal / multi-agent | DRAFTED | — | Customized draft ready |
+| Hyosu Kim | Chung-Ang | HCSLAB — real-time / on-device AI | DRAFTED | — | Customized draft ready |
+| Kunyoung Lee | Kangwon | KNU-PRLAB — rPPG / physiological sensing | DRAFTED | — | Customized draft ready |
+| Sungrae Cho | Chung-Ang | UCLab — federated learning / edge intelligence | DRAFTED | — | Customized draft ready |
+| Muhammad Syafrudin | Kookmin | AIN Lab — multimodal / biosignals / explainable AI | DRAFTED | — | Customized draft ready; verify current Kookmin email before sending |
 
 ## Current UG-recruiting batch
 
-The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted; the remaining targets are being researched and drafted in batches.
+The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Two customized drafting batches are now stored in the repository. Eligibility-restricted current calls are intentionally not treated as equivalent to open external undergraduate opportunities.
