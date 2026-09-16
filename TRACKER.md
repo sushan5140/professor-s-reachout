@@ -73,6 +73,13 @@ Last synchronized: 2026-09-17
 | Myung Geol Choi | Catholic University | Computer Graphics Lab — crowd simulation / VR | DRAFTED | — | Explicit active undergraduate-intern recruitment verified; customized draft stored |
 | Jongwook Kim | Sangmyung | Data Intelligence Lab — LLM / privacy / explainable AI | DRAFTED_WITH_ACTIVE_UG_NOTE | — | Current undergraduate researcher verified; customized draft stored |
 
+
+| Yongjae Yoo | Hanyang University ERICA | MILab — multimodal / human-centered / Physical AI | DRAFTED | — | Fresh 2026-09-17 wave; explicit undergraduate-intern recruiting; draft stored |
+| Changjoo Nam | Sogang University | AI Robotics Lab — VLA / multi-agent robot planning / manipulation | DRAFTED | — | Fresh 2026-09-17 wave; current undergraduate participation + outside-university interns; draft stored |
+| Younguk Yun | Yonsei University Mirae | AIS Lab — sensor AI / Edge AI / reliability | DRAFTED | — | Fresh 2026-09-17 wave; explicit open undergraduate-research position; draft stored |
+| Donghyun Lee | Hankuk University of Foreign Studies | AI Group — edge-case reliability / LLM-agent validation | DRAFTED | — | Fresh 2026-09-17 wave; July 2026 undergraduate recruiting + direct Meno-J reliability fit; draft stored |
+| JongWon Kim | GIST | NetAI — edge/cloud AI infrastructure / cyber-physical systems | DRAFTED_WITH_CAPACITY_NOTE | — | Fresh 2026-09-17 wave; repeated 2026 undergraduate interns; senior/large-lab capacity caveat |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
