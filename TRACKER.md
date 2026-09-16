@@ -136,6 +136,18 @@ Last synchronized: 2026-09-17
 | Jin-Woo Jeong | SeoulTech | Interaction Lab — AI agents / HCI / human-physical-agent interaction | DRAFTED_WITH_TIMING_NOTE | — | 2026 undergraduate internship path verified; current September intake deadline has passed, so draft asks about remote/future work |
 | Hoki Kim | Chung-Ang University | Trustworthy AI Lab — AI safety / security / machine unlearning | DRAFTED_WITH_OPENING_CAVEAT | — | Recent undergraduate co-authorship verified; no current external-UG call found, so customized draft asks about a small remote research task |
 
+
+| Woojun Kim | KAIST | AIRS Lab — trustworthy AI / multi-agent robotics | DRAFTED | — | Interns explicitly welcomed; 2026 IROS/AAMAS/L4DC hooks; customized draft stored |
+| Sunghoon Im | KAIST | Robotics and Vision Lab — Physical AI / VLA / 3D vision | DRAFTED | — | Current intern hiring verified; Physical AI reliability angle; customized draft stored |
+| Junmo Kim | KAIST | SIIT Lab — multimodal AI / AI safety / autonomous perception | DRAFTED | — | Undergraduate recruiting verified; broad 2026 top-venue activity; customized draft stored |
+| Jiyoung Lee | Ewha Womans University | Multimodal AI Lab — MLLMs / agentic AI / multimodal learning | DRAFTED | — | Explicit undergraduate-intern recruiting; modality-conflict reliability angle; customized draft stored |
+| Jun Won Choi | Seoul National University | Physical AI Lab — autonomous driving / robotic perception | DRAFTED | — | Summer/winter undergraduate internships verified; autonomous-perception falsification hook; customized draft stored |
+| Yunyong Ko | Chung-Ang University | MINDS Lab — data mining / trustworthy AI / graph learning | DRAFTED | — | Explicit undergraduate research-intern recruiting; CIKM 2026 PROBE-Web evaluation hook; customized draft stored |
+| Sunoh Kim | Dankook University | DUCK Lab — trustworthy multimodal AI / VLM robustness / Physical AI | DRAFTED_WITH_OPENING_CAVEAT | — | Strong 2026 ICML/CVPR robustness fit; no explicit current external-UG call found; customized remote-task inquiry stored |
+| Jung Uk Kim | Kyung Hee University | Visual AI Lab — multimodal / agentic AI / autonomous driving | DRAFTED | — | Rolling undergraduate-intern recruiting verified; 2026 CVPR/ECCV hooks; customized draft stored |
+| Hyunwoo J. Kim | KAIST | MLV Lab — efficient vision / scalable ML / resource-limited AI | DRAFTED | — | Undergraduate-intern inquiries explicitly welcomed; efficiency-vs-reliability hook; customized draft stored |
+| Dong-Jin Kim | Hanyang University | Multimodal AI Lab — video-language / generative AI / VLM | DRAFTED_WITH_PATH_NOTE | — | Active undergraduate researchers verified; public recruiting leans graduate-track; customized pre-admission inquiry stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
