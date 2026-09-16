@@ -29,6 +29,10 @@ Last synchronized: 2026-09-17
 | Eunji Jun | Sejong | BIML — biomedical AI / uncertainty / multimodal learning | DRAFTED | — | New expansion target; lab explicitly recruits undergraduate interns |
 | Hong-Gu Kang | Sejong | ART Lab — on-device AI / edge-cloud / heterogeneous clients | DRAFTED | — | New expansion target; lab explicitly welcomes undergraduate interns and pre-admission small projects |
 
+| Chanjun Park | Soongsil | NLP Lab — LLM evaluation / agents / skill use | DRAFTED | — | New expansion target; lab explicitly currently recruits undergraduate interns |
+| Jaekoo Lee | Kookmin | Machine Intelligence Lab — generative vision / multimodal AI | DRAFTED | — | New expansion target; active intern program |
+| Seung-Mok Lee | Kookmin | RoNI Lab — robotics / navigation / Physical AI | DRAFTED | — | New expansion target; lab currently works with undergraduate RAs and encourages UROP participation |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
@@ -39,4 +43,4 @@ All 11 targets have now been researched/contact-status audited. Myeonggyun Han i
 
 ### Expansion beyond the original 11
 
-Started with Sejong University standing-recruitment labs: Eunji Jun (BIML) and Hong-Gu Kang (ART Lab).
+Expansion now includes Sejong University standing-recruitment labs (Eunji Jun, Hong-Gu Kang), Soongsil NLP Lab (Chanjun Park), and Kookmin intern/undergraduate-research pathways (Jaekoo Lee, Seung-Mok Lee).
