@@ -115,6 +115,13 @@ Last synchronized: 2026-09-17
 | Dukjo Kong | GIST | IMPACT Lab — AI / generative AI / Edge AI | DRAFTED | — | Multiple current undergraduate researchers; cross-layer AI reliability angle; customized draft stored |
 | Eunji Park | Chung-Ang | IXLAB — multimodal sensing / human-centered AI / HCI | DRAFTED | — | Active undergraduate-research pipeline; 2026 multimodal workload + UIST hooks; customized draft stored |
 
+
+| Sungjoon Choi | Korea University | RILAB — robot learning / dexterous manipulation / HRI | DRAFTED | — | Explicit undergraduate-intern recruiting; multiple 2026 robotics hooks; customized draft stored |
+| Jeongseob Ahn | Korea University | CSL — LLM serving / AI systems / computer architecture | DRAFTED | — | Actively recruits undergraduate interns; OSDI 2026 LLM-serving hook; customized draft stored |
+| Sungeun Hong | SKKU | AIM Lab — multimodal / efficient ML / robot learning | DRAFTED | — | Explicit intern recruiting; 2026 CVPR/ICML/EMNLP multimodal hooks; customized draft stored |
+| Eun-Seok Ryu | SKKU | IMCLab — 4DGS / volumetric video / intelligent compression | DRAFTED_WITH_ELIGIBILITY_CAVEAT | — | Undergraduate path generally 3rd/4th year; draft asks only about small pre-admission remote work |
+| Duksu Kim | KOREATECH | SPIN Lab — spatial AI / autonomous driving / 3D vision | DRAFTED | — | Undergraduate research path verified; 2026 autonomous navigation + 3D perception hooks; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
