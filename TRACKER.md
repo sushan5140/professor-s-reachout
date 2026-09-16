@@ -25,10 +25,18 @@ Last synchronized: 2026-09-17
 | Hyunho Kim | Chonnam | LSAIL — AI drug discovery / biology-aware AI | DRAFTED | — | Customized draft ready; current recruitment is UG-active but favors students already further into degree |
 | Jun-Ha Hwang | Kumoh | Intelligent Software Lab — AI / optimization | DRAFTED_WITH_EVIDENCE_CAVEAT | — | Draft ready; internal opening is Kumoh 2nd–3rd year only. Recent publication evidence sparse, so mail avoids invented claims |
 
+| Hyeon-Ju Yoon | Kumoh | System Software Lab — systems / profiling / embedded software | DRAFTED_WITH_ELIGIBILITY_CAVEAT | — | Draft ready; current opening is restricted to Kumoh students, so mail asks only about a remote pre-admission task |
+| Eunji Jun | Sejong | BIML — biomedical AI / uncertainty / multimodal learning | DRAFTED | — | New expansion target; lab explicitly recruits undergraduate interns |
+| Hong-Gu Kang | Sejong | ART Lab — on-device AI / edge-cloud / heterogeneous clients | DRAFTED | — | New expansion target; lab explicitly welcomes undergraduate interns and pre-admission small projects |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
 
-### Remaining from the 11-person recruiting audit
+### Original 11-person recruiting audit
 
-- Hyeon-Ju Yoon — Kumoh National Institute of Technology
+All 11 targets have now been researched/contact-status audited. Myeonggyun Han is already contacted; the remaining viable targets have customized drafts or eligibility caveats stored in this repository.
+
+### Expansion beyond the original 11
+
+Started with Sejong University standing-recruitment labs: Eunji Jun (BIML) and Hong-Gu Kang (ART Lab).
