@@ -101,6 +101,13 @@ Last synchronized: 2026-09-17
 | Jongyoo Kim | Yonsei | MMAI — generative AI / 3D vision / Gaussian splatting | DRAFTED | — | Explicit undergraduate-intern recruiting; CVPR 2026 3D hook; customized draft stored |
 | Dae-Young Kim | Soonchunhyang | INSLAB — Edge AI / distributed AI / CPS | DRAFTED | — | Multiple current undergraduate researchers; Edge-AI resource-contention angle; customized draft stored |
 
+
+| SooJean Han | KAIST | ACSS — safe autonomy / uncertainty / control | DRAFTED | — | Undergraduate intern route verified; 2026 SafeFlowMatcher + conformal risk-aware planning hooks; customized draft stored |
+| Sung-Ju Lee | KAIST | MIIL — mobile sensing / multimodal AI / wearables | DRAFTED | — | Actively recruits undergraduate researchers; 2026 ACL/ICLR sensing hooks; customized draft stored |
+| Saehwa Kim | HUFS | PASS Lab — on-device AI / mixed-criticality / Physical AI systems | DRAFTED | — | Multiple current undergraduate researchers; 2026 MCKube system-software hook; customized draft stored |
+| Hoeryong Jung | Konkuk | RV Lab — Physical AI / VLA / manipulation / sim-to-real | DRAFTED | — | Active undergraduate researchers; embodied-robot reliability angle; customized draft stored |
+| Jin Hyun Kim | Gyeongsang National | AiX Lab — AI safety / formal verification / trustworthy AI | DRAFTED | — | Current undergraduate researchers; formal verification + runtime-monitoring hook; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
