@@ -87,6 +87,13 @@ Last synchronized: 2026-09-17
 | Jinwoo Choi | Kyung Hee | VLL — multimodal AI / Video-LLM reliability | DRAFTED | — | Multiple active undergraduate interns; 2026 multimodal failure-analysis work; customized draft stored |
 | Junghyun Oh | Kwangwoon | Robotics & A.I. Lab — safe navigation / uncertainty | DRAFTED | — | Undergraduate research open year-round; 2026 safe-navigation and HITL replanning hooks; customized draft stored |
 
+
+| Jinseok Seol | Dankook | IRDM — LLM recommendation / Text-to-SQL / XAI | DRAFTED | — | Explicit undergraduate-intern recruiting; 2026 LLM pruning + PALRec hooks; customized draft stored |
+| JinYeong Bak | SKKU | HLI Lab — NLP / LLM alignment / evaluation | DRAFTED_WITH_RECRUITMENT_CAVEAT | — | Active undergraduate cohort; Fall 2026 intern call is closed, so draft asks only about small remote work |
+| Sooyoung Cha | SKKU | SAL — software testing / neural-network testing | DRAFTED | — | Lab explicitly always seeks undergraduate students; Meno-J maps directly to test-generation research |
+| Sungha Choi | Kyung Hee | EMIL — on-device / multimodal / agentic AI | DRAFTED | — | Large active undergraduate-intern group; efficient multimodal reliability hook; customized draft stored |
+| DongHwa Shin | Kwangwoon | HDI Lab — visual analytics / ML | DRAFTED | — | Multiple current undergraduate researchers; visual failure-analysis extension for Meno-J; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
