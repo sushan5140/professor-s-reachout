@@ -129,6 +129,13 @@ Last synchronized: 2026-09-17
 | Jungbeom Lee | Korea University | Vision & AI Lab — VLM / VLA / embodied AI | DRAFTED | — | Currently recruiting undergraduate interns; 2026 EMNLP/ECCV/ICML/RSS/CVPR hooks; customized draft stored |
 | Arda Senocak | UNIST | Multisensory Intelligence Lab — multimodal / multisensory learning | DRAFTED | — | Explicit undergraduate-intern recruiting; ECCV 2026 oral + CVPR 2026 hooks; customized draft stored |
 
+
+| Hyunggu Jung | Seoul National University | HCAIL — human-centered AI / healthcare AI / accessibility | DRAFTED | — | Explicit undergraduate research-intern path; 2026 ASSETS/CHI human-centered evaluation hooks; customized draft stored |
+| Won Je Jang | Hankuk University of Foreign Studies | VOID Lab — autonomous driving / VLM / multimodal perception | DRAFTED_WITH_RECRUITMENT_CAVEAT | — | Current lab includes undergraduate interns, but public recruiting currently emphasizes graduate students; customized remote-task inquiry stored |
+| Hyeok Kim | KAIST | DICE Lab — visualization / scientific-workflow AI / HCI | DRAFTED | — | Currently recruiting undergraduate interns; CHI 2026 knowledge-synthesis + experiment-stimuli hooks; customized draft stored |
+| Jin-Woo Jeong | SeoulTech | Interaction Lab — AI agents / HCI / human-physical-agent interaction | DRAFTED_WITH_TIMING_NOTE | — | 2026 undergraduate internship path verified; current September intake deadline has passed, so draft asks about remote/future work |
+| Hoki Kim | Chung-Ang University | Trustworthy AI Lab — AI safety / security / machine unlearning | DRAFTED_WITH_OPENING_CAVEAT | — | Recent undergraduate co-authorship verified; no current external-UG call found, so customized draft asks about a small remote research task |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
