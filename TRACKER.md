@@ -33,6 +33,16 @@ Last synchronized: 2026-09-17
 | Jaekoo Lee | Kookmin | Machine Intelligence Lab — generative vision / multimodal AI | DRAFTED | — | New expansion target; active intern program |
 | Seung-Mok Lee | Kookmin | RoNI Lab — robotics / navigation / Physical AI | DRAFTED | — | New expansion target; lab currently works with undergraduate RAs and encourages UROP participation |
 
+| Seunghyoung Ryu | Sejong | IDEAL Lab — industrial AI / anomaly detection / uncertainty | DRAFTED | — | Current UG recruiting verified; customized draft stored |
+| Hyung Seok Kim | Sejong | MINES Lab — wearable / on-device AI / AI robots | DRAFTED | — | Undergraduate participation explicitly welcomed; customized draft stored |
+| Byungseok Min | Sejong | VAI Lab — industrial vision / anomaly detection / document AI | DRAFTED | — | Undergraduate researchers welcomed; customized draft stored |
+| Seung Hun Choi | Soongsil | ICS Lab — reliable computing systems / thermal management | DRAFTED | — | Current UG recruiting verified; customized draft stored |
+| Wonbo Shim | SeoulTech | SDCL — PIM / memory systems / LLM inference | DRAFTED | — | Current undergraduate/intern recruiting verified; customized draft stored |
+| Hyun-Duck Choi | SeoulTech | Ctrl+CV Lab — robust Physical AI / robot control | DRAFTED | — | Current UG recruiting verified; customized draft stored |
+| Kyoungwon Seo | SeoulTech | HAI Lab — agentic AI / human-centered AI | DRAFTED | — | Undergraduate + visiting researcher path verified; customized draft stored |
+| Seong-Eun Kim | SeoulTech | BrAIn Lab — EEG / physiological AI / brain-inspired AI | DRAFTED | — | Current undergraduate RA recruiting verified; customized draft stored |
+| Hyeongmin Lee | SeoulTech | ViViD Lab — diffusion / video / world models | DRAFTED | — | Active undergraduate intern recruiting verified; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
@@ -43,4 +53,4 @@ All 11 targets have now been researched/contact-status audited. Myeonggyun Han i
 
 ### Expansion beyond the original 11
 
-Expansion now includes Sejong University standing-recruitment labs (Eunji Jun, Hong-Gu Kang), Soongsil NLP Lab (Chanjun Park), and Kookmin intern/undergraduate-research pathways (Jaekoo Lee, Seung-Mok Lee).
+Expansion now includes the earlier Sejong/Soongsil/Kookmin targets plus a 9-professor verified wave across Sejong, Soongsil, and SeoulTech. Each new target has a current undergraduate/visiting-research path and a professor-specific recent-work hook.
