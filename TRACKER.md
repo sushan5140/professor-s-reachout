@@ -53,6 +53,16 @@ Last synchronized: 2026-09-17
 | Sangwon Hwang | Pukyong National | AIDAN — distributed AI / multi-agent systems / networks | DRAFTED | — | Standing undergraduate research internship verified; customized draft stored |
 | Yeonho Yoo | Dongguk | iSN Lab — AI systems / MoE compression / distributed training | DRAFTED | — | Current undergraduate recruiting verified; customized draft stored |
 
+| Sungje Kim | KOREATECH | MIC Lab — edge / multimodal / on-device AI | DRAFTED | — | Open undergraduate-intern path verified; customized draft stored |
+| Cheoneum Park | Hanbat | NLP Lab — RAG / MAS / agentic workflows | DRAFTED | — | Active application route + current undergraduates verified; customized draft stored |
+| Janghun Hyeon | Hanbat | PEARL Lab — robot vision / anomaly detection / 3D perception | DRAFTED | — | Standing undergraduate-research application path verified; customized draft stored |
+| Sungjin Yu | Hanbat | NCSL — AI security / authentication / PQC | DRAFTED | — | Lab explicitly always open to undergraduate students; customized draft stored |
+| Dohyung Kim | Kangwon | ICN Lab — efficient LLM systems / prompt caching / networking | DRAFTED | — | Current undergraduate intern + open student interest verified; customized draft stored |
+| Sung-Ho Jung | Kangwon | Jung Lab — multi-agent multi-omics AI / biomedical prediction | DRAFTED | — | Explicit undergraduate-intern recruitment verified; customized draft stored |
+| Heeseung Kim | University of Seoul | SIA Lab — speech / multimodal agents | DRAFTED_WITH_CAPACITY_NOTE | — | UG inquiries welcome, but lab currently prioritizes students considering later graduate study; customized draft stored |
+| Hongje Seong | University of Seoul | CVLab — trustworthy Physical AI / 3D vision | DRAFTED | — | Active 2026 undergraduate-intern participation verified; customized draft stored |
+| Seongah Jeong | University of Seoul | UNICON Lab — edge/cloud / ISAC / AI-native systems | DRAFTED | — | 2027 undergraduate research-intern recruitment verified; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
@@ -63,4 +73,4 @@ All 11 targets have now been researched/contact-status audited. Myeonggyun Han i
 
 ### Expansion beyond the original 11
 
-Expansion now includes the earlier Sejong/Soongsil/Kookmin targets plus two 9-professor verified waves. The newest wave covers Ajou, Inha, Jeonbuk, Chungnam, Gachon, Konkuk, Pukyong National, and Dongguk. Each new target has an undergraduate-research path and a professor-specific recent-work hook.
+Expansion now includes the earlier Sejong/Soongsil/Kookmin targets plus three 9-professor verified waves. The newest wave covers KOREATECH, Hanbat, Kangwon, and University of Seoul. Each target has a current undergraduate/intern pathway or active 2026 undergraduate participation plus a professor-specific recent-work hook.
