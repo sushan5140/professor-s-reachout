@@ -63,6 +63,16 @@ Last synchronized: 2026-09-17
 | Hongje Seong | University of Seoul | CVLab — trustworthy Physical AI / 3D vision | DRAFTED | — | Active 2026 undergraduate-intern participation verified; customized draft stored |
 | Seongah Jeong | University of Seoul | UNICON Lab — edge/cloud / ISAC / AI-native systems | DRAFTED | — | 2027 undergraduate research-intern recruitment verified; customized draft stored |
 
+| Jaesin Ahn | Hanbat | SAIL — trustworthy AI / mechanistic interpretability | DRAFTED | — | Explicit undergraduate-research intern recruiting verified; customized draft stored |
+| Yunho Jeon | Hanbat | EffAI Lab — efficient VLM/LLM / model lightweighting | DRAFTED | — | Explicit undergraduate researcher recruiting verified; customized draft stored |
+| Jinwoo Kim | Chungbuk | CNS Lab — AI security / VLM safety / network security | DRAFTED | — | Multiple 2026 undergraduate interns verified; customized draft stored |
+| Aziz Nasridinov | Chungbuk | Data Analytics Lab — multimodal AI / analytics | DRAFTED | — | Current undergraduate intern + open contact route verified; customized draft stored |
+| Youhyun Shin | Incheon National | DILAB — NLP / LLM evaluation / bias | DRAFTED_WITH_INTERNAL_PATH_NOTE | — | INU standing undergraduate internship route is internal; draft explicitly avoids claiming current eligibility |
+| Sangyup Lee | Incheon National | SecAI Lab — trustworthy AI / RAG / AI security | DRAFTED_WITH_INTERNAL_PATH_NOTE | — | INU standing undergraduate internship route is internal; draft explicitly avoids claiming current eligibility |
+| O-Joun Lee | Catholic University | NS Lab — knowledge graphs / graph learning / LLM-assisted KG | DRAFTED_WITH_UNDERGRAD_HISTORY_NOTE | — | Strong undergraduate-research history; customized draft stored |
+| Myung Geol Choi | Catholic University | Computer Graphics Lab — crowd simulation / VR | DRAFTED | — | Explicit active undergraduate-intern recruitment verified; customized draft stored |
+| Jongwook Kim | Sangmyung | Data Intelligence Lab — LLM / privacy / explainable AI | DRAFTED_WITH_ACTIVE_UG_NOTE | — | Current undergraduate researcher verified; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
