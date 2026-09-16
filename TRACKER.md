@@ -108,6 +108,13 @@ Last synchronized: 2026-09-17
 | Hoeryong Jung | Konkuk | RV Lab — Physical AI / VLA / manipulation / sim-to-real | DRAFTED | — | Active undergraduate researchers; embodied-robot reliability angle; customized draft stored |
 | Jin Hyun Kim | Gyeongsang National | AiX Lab — AI safety / formal verification / trustworthy AI | DRAFTED | — | Current undergraduate researchers; formal verification + runtime-monitoring hook; customized draft stored |
 
+
+| Youngki Lee | SNU | HCS Lab — on-device AI / human-centered agents / spatial computing | DRAFTED | — | Multiple 2026 interns; on-device and long-lived agent reliability hook; customized draft stored |
+| Seokhwan Jeong | Sogang | RIM Lab — robotic grasping / manipulation / Physical AI | DRAFTED_WITH_PATH_NOTE | — | Undergraduate intern/fellow path verified, but short visiting internships are selective; customized draft stored |
+| Hyeonbeom Lee | Ajou | ARRL — autonomous robotics / depth estimation / navigation | DRAFTED | — | Explicit undergraduate-intern recruiting; CVPR 2026 depth-estimation hook; customized draft stored |
+| Dukjo Kong | GIST | IMPACT Lab — AI / generative AI / Edge AI | DRAFTED | — | Multiple current undergraduate researchers; cross-layer AI reliability angle; customized draft stored |
+| Eunji Park | Chung-Ang | IXLAB — multimodal sensing / human-centered AI / HCI | DRAFTED | — | Active undergraduate-research pipeline; 2026 multimodal workload + UIST hooks; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
