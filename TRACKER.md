@@ -94,6 +94,13 @@ Last synchronized: 2026-09-17
 | Sungha Choi | Kyung Hee | EMIL — on-device / multimodal / agentic AI | DRAFTED | — | Large active undergraduate-intern group; efficient multimodal reliability hook; customized draft stored |
 | DongHwa Shin | Kwangwoon | HDI Lab — visual analytics / ML | DRAFTED | — | Multiple current undergraduate researchers; visual failure-analysis extension for Meno-J; customized draft stored |
 
+
+| Seyeon Kim | Korea University | SERA Lab — edge AI / XR systems / mobile-cloud inference | DRAFTED | — | Active undergraduate researchers + open recruiting; 2026 DeepSFU/DualEngine hooks; customized draft stored |
+| Hyunwoo Lee | KENTECH | CSSLab — AI security / intrusion detection / verification | DRAFTED | — | Large current undergraduate-intern group; 2026 systematic security-testing hook; customized draft stored |
+| Soonmin Hwang | Hanyang | IRCV — robust vision / autonomous perception | DRAFTED | — | Active undergraduate interns; 2026 ICLR low-light detection hook; customized draft stored |
+| Jongyoo Kim | Yonsei | MMAI — generative AI / 3D vision / Gaussian splatting | DRAFTED | — | Explicit undergraduate-intern recruiting; CVPR 2026 3D hook; customized draft stored |
+| Dae-Young Kim | Soonchunhyang | INSLAB — Edge AI / distributed AI / CPS | DRAFTED | — | Multiple current undergraduate researchers; Edge-AI resource-contention angle; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
