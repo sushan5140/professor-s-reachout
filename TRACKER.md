@@ -80,6 +80,13 @@ Last synchronized: 2026-09-17
 | Donghyun Lee | Hankuk University of Foreign Studies | AI Group — edge-case reliability / LLM-agent validation | DRAFTED | — | Fresh 2026-09-17 wave; July 2026 undergraduate recruiting + direct Meno-J reliability fit; draft stored |
 | JongWon Kim | GIST | NetAI — edge/cloud AI infrastructure / cyber-physical systems | DRAFTED_WITH_CAPACITY_NOTE | — | Fresh 2026-09-17 wave; repeated 2026 undergraduate interns; senior/large-lab capacity caveat |
 
+
+| Kwanghyun Park | Yonsei | BDAI — data systems / AI infrastructure | DRAFTED | — | Explicit undergraduate research opportunities; 2026 SIGMOD/ICDE hooks; customized draft stored |
+| Woohwan Jung | Korea University | AutoAI — RAG / Physical AI | DRAFTED | — | Undergraduate interns explicitly accepted; 2026 evidence-intensive RAG hook; customized draft stored |
+| Gyeongsik Yang | Korea University | System Software Lab — AI systems / LLM efficiency | DRAFTED | — | Active 2026 undergraduate interns; AI-agent resource/performance + LLM systems hook; customized draft stored |
+| Jinwoo Choi | Kyung Hee | VLL — multimodal AI / Video-LLM reliability | DRAFTED | — | Multiple active undergraduate interns; 2026 multimodal failure-analysis work; customized draft stored |
+| Junghyun Oh | Kwangwoon | Robotics & A.I. Lab — safe navigation / uncertainty | DRAFTED | — | Undergraduate research open year-round; 2026 safe-navigation and HITL replanning hooks; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
