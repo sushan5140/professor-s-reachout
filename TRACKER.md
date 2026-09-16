@@ -43,6 +43,16 @@ Last synchronized: 2026-09-17
 | Seong-Eun Kim | SeoulTech | BrAIn Lab — EEG / physiological AI / brain-inspired AI | DRAFTED | — | Current undergraduate RA recruiting verified; customized draft stored |
 | Hyeongmin Lee | SeoulTech | ViViD Lab — diffusion / video / world models | DRAFTED | — | Active undergraduate intern recruiting verified; customized draft stored |
 
+| Howon Lee | Ajou | ACELAB — collaborative DRL / AI-RAN / LEO networks | DRAFTED | — | Current undergraduate intern recruiting verified; customized draft stored |
+| Minoh Jeong | Inha | LIL — reliable ML / contrastive learning / information theory | DRAFTED | — | Current undergraduate researcher recruiting verified; customized draft stored |
+| Jemin Lee | JBNU | ECLab — efficient LLM inference / quantization / AI systems | DRAFTED | — | Current undergraduate intern presence + open student interest verified; customized draft stored |
+| Kyungsu Lee | JBNU | MACS Lab — trustworthy medical AI / multimodal adaptation | DRAFTED | — | Fall 2026 undergraduate RA recruitment verified; customized draft stored |
+| Youngseok Lee | Chungnam | DNLAB — AI agents / network-data analysis | DRAFTED | — | 2026 undergraduate researcher recruiting verified; customized draft stored |
+| Joohyung Lee | Gachon | iMES Lab — federated AI / edge-cloud / LLM adaptation | DRAFTED | — | Undergraduate recruiting verified; customized draft stored |
+| Byungkook Oh | Konkuk | GLI Lab — GraphRAG / knowledge graphs / anomaly detection | DRAFTED | — | Current undergraduate intern recruiting verified; customized draft stored |
+| Sangwon Hwang | Pukyong National | AIDAN — distributed AI / multi-agent systems / networks | DRAFTED | — | Standing undergraduate research internship verified; customized draft stored |
+| Yeonho Yoo | Dongguk | iSN Lab — AI systems / MoE compression / distributed training | DRAFTED | — | Current undergraduate recruiting verified; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
@@ -53,4 +63,4 @@ All 11 targets have now been researched/contact-status audited. Myeonggyun Han i
 
 ### Expansion beyond the original 11
 
-Expansion now includes the earlier Sejong/Soongsil/Kookmin targets plus a 9-professor verified wave across Sejong, Soongsil, and SeoulTech. Each new target has a current undergraduate/visiting-research path and a professor-specific recent-work hook.
+Expansion now includes the earlier Sejong/Soongsil/Kookmin targets plus two 9-professor verified waves. The newest wave covers Ajou, Inha, Jeonbuk, Chungnam, Gachon, Konkuk, Pukyong National, and Dongguk. Each new target has an undergraduate-research path and a professor-specific recent-work hook.
