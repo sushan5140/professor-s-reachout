@@ -172,6 +172,18 @@ Last synchronized: 2026-09-17
 | Gyuyeong Kim | Yonsei University | NSLab — RAG infrastructure / AI data-center systems / networking | DRAFTED | — | Current undergraduate interns + UROP history; RAG/system reliability hook; customized draft stored |
 | Donghyeon Cho | Hanyang University | Computer Vision Lab — trustworthy vision / generative AI / 3D vision | DRAFTED | — | Active undergraduate research participation; trustworthy-vision stress-testing hook; customized draft stored |
 
+
+| Hanul Kim | SeoulTech | Computer Vision Lab — multimodal vision / VLM / anomaly detection | DRAFTED | — | Current 2026 undergraduate interns verified; multimodal-vision reliability hook; customized draft stored |
+| Seon Joo Kim | Yonsei University | CIP Lab — 3D vision / generative AI / VLM / robot learning | DRAFTED | — | Current undergraduate research interns verified; 3D/VLM reliability hook; customized draft stored |
+| Minhyuk Sung | KAIST | Visual AI Group — generative AI / 3D vision / geometry | DRAFTED_WITH_OPENING_CAVEAT | — | Strong undergraduate-intern history; no current external-UG call verified; customized remote-task inquiry stored |
+| Gyeong-Moon Park | Korea University | VGI Lab — multimodal / continual / embodied AI | DRAFTED | — | Undergraduate recruiting explicitly verified; continual/multimodal reliability hook; customized draft stored |
+| Chanyoung Park | KAIST | DSAIL — agentic AI / multimodal learning / robust ML | DRAFTED | — | Summer/winter undergraduate internships explicitly open; agent/multimodal failure-testing hook; customized draft stored |
+| Noseong Park | KAIST | Machine Learning — graph learning / diffusion / deep learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; customized remote-task inquiry stored |
+| Il-Chul Moon | KAIST | Applied AI Lab — generative AI / simulation / reliable ML | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; customized remote-task inquiry stored |
+| Beomseok Oh | SeoulTech | Applied AI — pattern recognition / deep learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; pattern-recognition failure-testing hook; customized draft stored |
+| Jongyoul Park | SeoulTech | Applied AI — visual intelligence / distributed learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; distributed-AI reliability hook; customized draft stored |
+| Yeoneung Kim | SeoulTech | Applied AI — mathematical machine learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; counterexample-driven ML evaluation hook; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
