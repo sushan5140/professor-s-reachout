@@ -160,6 +160,18 @@ Last synchronized: 2026-09-17
 | Ian Oakley | KAIST | WIT Lab — wearable computing / HCI / XR | DRAFTED_WITH_OPENING_CAVEAT | — | 2026 undergraduate participation verified; current hiring page emphasizes graduate roles; customized remote-task inquiry stored |
 | Taeuk Kim | Hanyang University | NLP Lab — agents / retrieval / confidence / multimodal reasoning | DRAFTED | — | Current undergraduate interns verified; ACL 2026 agent/confidence hooks; customized draft stored |
 
+
+| Seulbae Kim | POSTECH | CompSec Lab — cybersecurity / systems / ML-AI | DRAFTED | — | Current undergraduate interns + open student outreach; customized security-falsification draft stored |
+| Sung-Hoon Yoon | DGIST | MIP Lab — multimodal AI / foundation models / Physical AI | DRAFTED | — | Explicit undergraduate-intern recruiting; multimodal reliability hook; customized draft stored |
+| Jinkyu Jeong | Yonsei University | S3 — systems software / AI systems / resource efficiency | DRAFTED | — | Explicit undergraduate-intern recruiting; AI-infrastructure stress-testing hook; customized draft stored |
+| Seong Jae Hwang | Yonsei University | Medical Imaging & Computer Vision Lab — medical AI / VLM / multimodal AI | DRAFTED | — | Active undergraduate research interns; medical/multimodal reliability hook; customized draft stored |
+| Dukyun Nam | Kyungpook National University | HPC Lab — high-performance computing / PIM | DRAFTED | — | Active undergraduate interns; workload/resource stress-testing hook; customized draft stored |
+| Sang-Hoon Kim | Ajou University | Systems Software Lab — storage / memory / systems | DRAFTED | — | Undergraduate openings explicitly stated; systems-software failure-testing hook; customized draft stored |
+| Kyungsik Han | Hanyang University | Human-Centered Computing Lab — HCI / human-centered AI | DRAFTED | — | Current undergraduate researchers; human-centered AI reliability hook; customized draft stored |
+| Min Suk Kang | KAIST | Network Security and Privacy Lab — security / privacy / networked systems | DRAFTED | — | Current undergraduate interns including external students; security falsification hook; customized draft stored |
+| Gyuyeong Kim | Yonsei University | NSLab — RAG infrastructure / AI data-center systems / networking | DRAFTED | — | Current undergraduate interns + UROP history; RAG/system reliability hook; customized draft stored |
+| Donghyeon Cho | Hanyang University | Computer Vision Lab — trustworthy vision / generative AI / 3D vision | DRAFTED | — | Active undergraduate research participation; trustworthy-vision stress-testing hook; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
