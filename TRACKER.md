@@ -148,6 +148,18 @@ Last synchronized: 2026-09-17
 | Hyunwoo J. Kim | KAIST | MLV Lab — efficient vision / scalable ML / resource-limited AI | DRAFTED | — | Undergraduate-intern inquiries explicitly welcomed; efficiency-vs-reliability hook; customized draft stored |
 | Dong-Jin Kim | Hanyang University | Multimodal AI Lab — video-language / generative AI / VLM | DRAFTED_WITH_PATH_NOTE | — | Active undergraduate researchers verified; public recruiting leans graduate-track; customized pre-admission inquiry stored |
 
+
+| Hyun Oh Song | Seoul National University | Machine Learning Lab — LLM agents / world models / efficient ML | DRAFTED | — | Undergraduate-intern path recommended; 2026 Rule2DRC/Q-Strata hooks; customized draft stored |
+| Kyunghan Lee | Seoul National University | NXC Lab — Connected AI / AI-RAN / edge AI | DRAFTED | — | Undergraduate research interns explicitly welcomed; 2026 AI-RAN/MobiSys hooks; customized draft stored |
+| Joyce Jiyoung Whang | KAIST | BDI Lab — graph AI / LLMs / knowledge graphs | DRAFTED | — | 2026 undergraduate internship call verified; KDD/ICML/CIKM graph-AI hooks; customized draft stored |
+| Byungjoo Lee | Yonsei University | High-Performance HCI Lab — HCI / AI-assisted tools | DRAFTED | — | Lab always welcomes undergraduate interns; CHI 2026 human-tool integration hook; customized draft stored |
+| Jin Yong Ha | Ewha Womans University | SSSLab — AI systems / storage / distributed systems | DRAFTED | — | Multiple 2026 undergraduate interns + open student contact route; AI-systems reliability hook; customized draft stored |
+| Joohyun Lee | Sogang University | AINET — RL / edge cloud / intelligent networking | DRAFTED | — | Explicit undergraduate mini-project internship path; 2026 RL/networking hook; customized draft stored |
+| Yoonseok Heo | Sogang University | HAICoLab — NLP / data-centric AI / human-AI collaboration | DRAFTED | — | Undergraduate research interns explicitly recruited; human-AI failure-testing angle; customized draft stored |
+| Dae-Hyun Nyang | Ewha Womans University | ISRL — AI security / privacy / systems security | DRAFTED_WITH_TIMING_NOTE | — | 2026 winter UG internship verified but closed; customized future/remote inquiry stored |
+| Ian Oakley | KAIST | WIT Lab — wearable computing / HCI / XR | DRAFTED_WITH_OPENING_CAVEAT | — | 2026 undergraduate participation verified; current hiring page emphasizes graduate roles; customized remote-task inquiry stored |
+| Taeuk Kim | Hanyang University | NLP Lab — agents / retrieval / confidence / multimodal reasoning | DRAFTED | — | Current undergraduate interns verified; ACL 2026 agent/confidence hooks; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
