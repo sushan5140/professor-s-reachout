@@ -184,6 +184,18 @@ Last synchronized: 2026-09-17
 | Jongyoul Park | SeoulTech | Applied AI — visual intelligence / distributed learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; distributed-AI reliability hook; customized draft stored |
 | Yeoneung Kim | SeoulTech | Applied AI — mathematical machine learning | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; counterexample-driven ML evaluation hook; customized draft stored |
 
+
+| Jae-Gil Lee | KAIST | Data Mining Lab — data mining / large-scale ML | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; subgroup/distribution failure-testing hook; customized draft stored |
+| Jaegul Choo | KAIST | DAVIAN — LLMs / AI safety / multimodal AI | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; LLM/multimodal reliability hook; customized draft stored |
+| Jinwoo Shin | KAIST | ALIN — robust ML / generative AI | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; counterexample-driven robustness hook; customized draft stored |
+| Juho Kim | KAIST | KIXLAB — human-AI interaction / interaction-centric AI | DRAFTED_WITH_TIMING_NOTE | — | Summer 2026 internship verified but closed; customized future/remote inquiry stored |
+| Steven Euijong Whang | KAIST | Data-centric AI — data quality / ML systems | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; data-centric failure-testing hook; customized draft stored |
+| Sungsoo Ahn | KAIST | Scientific ML — molecular generation / geometric ML | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; OOD scientific-ML reliability hook; customized draft stored |
+| Jaeho Lee | POSTECH | EffL — efficient AI / model compression / ML theory | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; efficiency-vs-reliability hook; customized draft stored |
+| Insu Han | KAIST | FlexML — efficient ML / quantization / LLM optimization | DRAFTED | — | Current undergraduate students verified; quantization reliability hook; customized draft stored |
+| Edward Choi | KAIST | Medical AI — clinical ML / healthcare AI | DRAFTED_WITH_OPENING_CAVEAT | — | No current external-UG call verified; subgroup/temporal reliability hook; customized draft stored |
+| Dongsu Han | KAIST | INA — systems for AI / LLM serving / distributed systems | DRAFTED | — | Public page welcomes research inquiries; AI-systems failure-testing hook; customized draft stored |
+
 ## Current UG-recruiting batch
 
 The current recruiting-lab audit has 11 targets. Myeonggyun Han has already been contacted. Three customized drafting batches are now stored in the repository. Eligibility-restricted calls are not treated as equivalent to open external undergraduate opportunities.
